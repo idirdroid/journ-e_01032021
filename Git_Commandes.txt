@@ -1,0 +1,10 @@
+Git
+Commandes de base
+
+Git init: Création d'un repository local
+Git add <Nom_du_fichier>: Ajout d'un fichier à suivre par le repo
+Git commit -m "<Message>": Permet de valider les changements réalisés
+
+Git Push: Permet de pousser les changements sur un repository distant
+
+Git pull: Permet de synchroniser le repo local avec le contenu du repo distant
