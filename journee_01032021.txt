@@ -1,0 +1,16 @@
+Matin:
+Accueil croissant
+Message d'Accueil
+Présentation du référenteil de compétences
+En mode groupe, expliquer deux des compétences à acquérir
+Savoir présenter les explications reçu des autres groupes
+
+Après midi:
+travaille sur multi tâche avec Robin: Génial !! :)
+Création d'un visuel de suivi des compétences
+Notion de Git (commandes de bases)
+Manipulation des repository distant (Github)
+Exercice de maninipulation de fichiers au sein d'un repo distant partagé
+
+Fin de journée:
+Travail de récap de la journée.
